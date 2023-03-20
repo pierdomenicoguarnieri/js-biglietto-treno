@@ -1,3 +1,7 @@
+:root{
+  scroll-behavior: smooth;
+}
+
 header{
   min-height: 80px;
 }

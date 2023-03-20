@@ -43,7 +43,7 @@ Steps da seguire:
 
 5. Ho aggiunto una sezione contenente i partner
 
-6. Ho aggiunto un footer contenete i crediti
+6. Ho aggiunto un footer contenete i crediti, un selettore della lingua e dei link social
 
 7. Ho creato un offcanvas utilizzando Bootstrap
 

@@ -31,6 +31,23 @@ Steps da seguire:
 
 5. **Stampare** a schermo **il costo finale del biglietto con massimo due decimali.**
 
+## Extra
+
+1. Ho aggiunto la parte grafica del sito
+
+2. Ho creato un effetto di transizione tra tre immagini che girano in dissolvenza all'infinito.
+
+3. Ho aggiunto una sezione che spiega il funzionamento del sito ed i parametri che vengono utilizzati per il calcolo del costo del biglietto.
+
+4. Ho stilizzato l'output di JavaScript utilizzando il `Template literals`
+
+5. Ho aggiunto una sezione contenente i partner
+
+6. Ho aggiunto un footer contenete i crediti
+
+7. Ho creato un offcanvas utilizzando Bootstrap
+
+
 ## References
 
 [W3School toFixed()](https://www.w3schools.com/jsref/jsref_tofixed.asp)

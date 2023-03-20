@@ -32,3 +32,9 @@ Steps da seguire:
 5. **Stampare** a schermo **il costo finale del biglietto con massimo due decimali.**
 
 ## References
+
+[W3School toFixed()](https://www.w3schools.com/jsref/jsref_tofixed.asp)
+
+[StackOverflow toFixed()](https://stackoverflow.com/questions/6134039/format-number-to-always-show-2-decimal-places)
+
+[bobbyhandz toFixed()](https://bobbyhadz.com/blog/javascript-format-number-to-two-decimal-places)

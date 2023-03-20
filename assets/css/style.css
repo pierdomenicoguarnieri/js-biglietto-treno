@@ -1,7 +1,3 @@
-:root{
-  scroll-behavior: smooth;
-}
-
 header{
   min-height: 80px;
 }
@@ -77,6 +73,14 @@ footer{
 
 .pg-overlay h2{
   font-size: 2.5vw;
+}
+
+footer span{
+  font-size: calc(.7rem + 0.75vw);
+}
+
+footer a{
+  font-size: calc(.7rem + 0.75vw);
 }
 
 .offcanvas {

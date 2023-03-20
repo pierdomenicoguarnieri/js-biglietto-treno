@@ -4,7 +4,7 @@ const age = prompt("Inserisci la tua età:");
 
 let price = (km * 0.21);
 
-const output = document.getElementById("mainOutput");
+const output = document.getElementById("content");
 
 if(age < 18){
   const originalPrice = price;

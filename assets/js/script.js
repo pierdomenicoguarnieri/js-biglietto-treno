@@ -14,3 +14,11 @@ if(age < 18){
   <h1>Ciao! Hai scelto di percorrere ${km}km ed hai iserito la seguente età: ${age} anni.</h1> 
   <h2>Il prezzo del biglietto è: ${price.toFixed(2)}€</h2>
   `
+}else if(age >= 65){
+  const originalPrice = price;
+  const percentage = (price / 100);
+  price = price - (percentage * 40);
+  output.innerHTML = `
+  <h1>Ciao! Hai scelto di percorrere ${km}km ed hai iserito la seguente età: ${age} anni.</h1> 
+  <h2>Il prezzo del biglietto è: ${price.toFixed(2)}€</h2>
+  `

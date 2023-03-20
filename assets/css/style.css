@@ -15,12 +15,12 @@ footer{
 }
 
 #home{
-  aspect-ratio: 16/9;
+  aspect-ratio: 16/8;
 }
 
 #home .pg-images-container img{
   object-fit: cover;
-  aspect-ratio: 16/9;
+  aspect-ratio: 16/8;
 }
 
 #train-1{
@@ -67,7 +67,7 @@ footer{
 
 .pg-overlay{
   z-index: 4;
-  aspect-ratio: 16/9;
+  aspect-ratio: 16/8;
   background-color: rgba(0, 0, 0, 0.6);
 }
 

@@ -10,6 +10,10 @@ footer{
   height: 50px;
 }
 
+.navbar-toggler-icon{
+  filter: invert(100%); 
+}
+
 #home{
   aspect-ratio: 16/8;
 }
